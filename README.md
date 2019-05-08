@@ -1,14 +1,11 @@
 # Bootstrapping Challenge
 
-## Instructions
+## Win rate for at home games
 
-With your pair partner, use bootstrapping to estimate a confidence interval for a statistic that's of interest to you in your Mod 2 project.
+While looking at win rates between all the soccer games played, we calculated if there was a statistical difference if a team earns a win on their home court or not.
 
-* Fork this repo.
-* Create a new notebook documenting the process.
-* Replace this README file with one that documents your work and includes a link to your notebook.
-* Add, commit, and push your changes.
-* Share a link to your fork in #seattle-ds-040119-git
+Through the analysis of bootstrapping, we found that the mean and confidence intervals were representative of our larger set of data.
+
 
 ## Resources
 
